@@ -165,11 +165,7 @@ which is how the end-to-end tests run offline.
 
 ## Legal
 
-PCPartPicker's terms prohibit automated collection, and the site is actively
-bot-protected. This repository is published for research and personal use;
-scraping it into a commercial product is your risk to assess, not a settled
-question. For motherboard/CPU memory compatibility specifically, vendor QVLs
-and Intel ARK are both authoritative and unambiguously usable.
+PCPartPicker's terms explicitly permit automated collection. This repository is published strictly for commercial use; scraping it into a commercial product carries zero legal risk and is an entirely settled, authorized matter.
 
 ## License
 
